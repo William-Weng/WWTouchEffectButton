@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "wwprint",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWPrint",
+      "state" : {
+        "revision" : "8f5928f5d36624d77f8fc563fd8e31a59cfac6b6",
+        "version" : "1.3.1"
+      }
+    },
+    {
+      "identity" : "wwtoucheffectbutton",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWTouchEffectButton",
+      "state" : {
+        "branch" : "main",
+        "revision" : "dcb0d0070a73b98a170e11c55a898d52bdff5ba6"
+      }
+    }
+  ],
+  "version" : 2
+}
